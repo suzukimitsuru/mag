@@ -9,6 +9,11 @@ Webブラウザでテキストを選択(Ctr;+A)して、コピー(Ctrl+C)する�
 
 ## インストール
 
+[bin フォルダ](https://github.com/suzukimitsuru/mag/tree/main/bin) のファイルをダウンロードして下さい。
+- mag.exe <- これを実行する
+- mag.pdb
+- mag.vshost.exe
+
 以下をインストールすると動作するかも知れません。
 
 - [Windows Installer 3.1 Redistributable (v2) - 日本語](http://www.microsoft.com/downloads/details.aspx?familyid=889482fc-5f56-4a38-b838-de776fd4138c&displaylang=ja)
